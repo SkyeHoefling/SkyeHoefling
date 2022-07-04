@@ -26,8 +26,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;  
   
 </div>
-  
----
-
-### My Activity :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkyeHoefling&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
