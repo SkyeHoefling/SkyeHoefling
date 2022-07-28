@@ -28,13 +28,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;  
 </div>
 
-<h3 align="center">Platforms</h3>
+<h3 align="center">Gaming</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SkyeHoefling/SkyeHoefling/blob/main/Assets/UnoLogoSmall.png" title="Uno Platform" alt="Uno Platform" width="40" height="40"/>&nbsp;
+</div>
+
+<h3 align="center">Platforms</h3>
+<div align="center">
+  <img src="https://github.com/SkyeHoefling/SkyeHoefling/blob/main/Assets/Windows.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+</div>
+
+<h3 align="center">Mobile Toolkits</h3>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SkyeHoefling/SkyeHoefling/blob/main/Assets/UnoLogoSmall.png" title="Uno Platform" alt="Uno Platform" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="center">IDEs</h3>
