@@ -10,9 +10,9 @@
 <h3 align="center">Hello 👋</h3>
 <p align="center">
   My name is Skye and I am a open-source software developer <br/ >
+  🎮 Gaming  
   📱 Mobile
   💻 Cross-Platform 
-  🎮 Gaming  
  </p>
 </div>
 <h3 align="center">Languages</h3>
