@@ -41,15 +41,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
-<h3 align="center">Mobile Toolkits</h3>
+<h3 align="center">UI Toolkits</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SkyeHoefling/SkyeHoefling/blob/main/Assets/UnoLogoSmall.png" title="Uno Platform" alt="Uno Platform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SkyeHoefling/SkyeHoefling/blob/main/Assets/winui-logo.png" title="WinUI" alt="WinUI" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="center">IDEs</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SkyeHoefling/SkyeHoefling/blob/main/Assets/VS-for-Mac.png" title="Visual Studio for Mac" alt="Visual Studio for Mac" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
