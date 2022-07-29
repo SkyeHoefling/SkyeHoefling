@@ -1,6 +1,3 @@
-<style>
-.skye-logo { background: white; padding: 5px; border-radius: 8px; }
-</style>
 <h3 align="center">Skye (she/her)</h3>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/17751436?v=4" width="200" height="200" />
@@ -21,7 +18,7 @@
 <h3 align="center">Languages</h3>
 <div align="center">
   <img class="skye-logo" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img style="background: white; padding: 5px; border-radius: 8px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
