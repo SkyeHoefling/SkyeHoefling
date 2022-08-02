@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/17751436?v=4" width="200" height="200" />
 </div>
 <div id="badges" align="center">
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/SkyeTheDev">
     <img src="https://img.shields.io/badge/@SkyeTheDev-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
