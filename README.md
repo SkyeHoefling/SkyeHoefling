@@ -9,7 +9,8 @@
 </div>
 <h3 align="center">Hello 👋</h3>
 <p align="center">
-  My name is Skye and I am a open-source software developer <br/ >
+  My name is Skye and I am a Senior Software Engineer II @ Blizzard Entertainment working on Diablo IV <br/ >
+  I used to make open source software <br /><br />
   🎮 Gaming  
   📱 Mobile
   💻 Cross-Platform 
